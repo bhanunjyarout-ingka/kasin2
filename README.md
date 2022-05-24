@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kasin2
-- 👀 I’m interested in Sowtware development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Sowtware development 
 - 📫 How to reach me kaushalendrakumar.singh@ingka.com
 
 <!---
