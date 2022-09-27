@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kasin2
-- 👀 I’m interested in Sowtware development 
+- 👀 I’m interested in Software development
 - 📫 How to reach me kaushalendrakumar.singh@ingka.com
 
 <!---
